@@ -1,4 +1,4 @@
-{
+const courses = {
     "Accueil": {
         "Bonjour !": {
             "content": [
